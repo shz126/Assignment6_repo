@@ -17,5 +17,3 @@ $$
 Our appreach relaxes this assumption by estimating and presenting a flow of mass across a generic graph that can be designed by the researchers.
 
 
-
-
